@@ -1,6 +1,6 @@
 import { connect } from 'react-redux';
-import { selectView } from '../actions';
 import { withRouter } from 'react-router-dom';
+import { selectView } from '../actions';
 
 import SidebarLink from '../components/SidebarLink';
 
